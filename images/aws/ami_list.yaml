@@ -34,7 +34,7 @@ amis:
       eu-central-2: "ami-TBD"
     extensions:
       extension_node_ami_100:
-        us-east-1: "ami-0aea7570035317b7f"
+        us-east-1: "ami-028e4454c9805b6e1"
         us-east-2: "ami-0b41f99500a979819"
         us-west-1: "ami-0f57c4d0fe7e870cc"
         us-west-2: "ami-031ef21967e6bae20"
