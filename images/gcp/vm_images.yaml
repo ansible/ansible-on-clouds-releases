@@ -1,5 +1,5 @@
-gcp_foundation_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/aoc-aap-24-gcp-20230615174447
-gcp_extension_e1_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/aoc-aap-24-gcp-20230615174447
-gcp_extension_e2_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/aoc-aap-24-gcp-20230615174447
-gcp_extension_e4_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/aoc-aap-24-gcp-20230615174447
-image_internal_install_name: quay.io/ansible-on-clouds/ansible-on-clouds-internal-install:2.3-latest
+gcp_foundation_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-gcp-2-4-200230828-00
+gcp_extension_e1_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-gcp-2-4-200230828-00
+gcp_extension_e2_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-gcp-2-4-200230828-00
+gcp_extension_e4_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-gcp-2-4-200230828-00
+image_internal_install_name: quay.io/ansible-on-clouds/ansible-on-clouds-internal-install:2.4.20230828-00
