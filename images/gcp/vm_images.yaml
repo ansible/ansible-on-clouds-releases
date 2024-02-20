@@ -1,5 +1,5 @@
-gcp_foundation_image_name: https://www.googleapis.com/compute/v1/projects/redhat-marketplace-dev/global/images/aoc-aap-24-gcp-dev-20240220191813
-gcp_extension_e1_image_name: https://www.googleapis.com/compute/v1/projects/redhat-marketplace-dev/global/images/aoc-aap-24-gcp-e1-dev-20240220191813
-gcp_extension_e2_image_name: https://www.googleapis.com/compute/v1/projects/redhat-marketplace-dev/global/images/aoc-aap-24-gcp-e2-dev-20240220191813
-gcp_extension_e4_image_name: https://www.googleapis.com/compute/v1/projects/redhat-marketplace-dev/global/images/aoc-aap-24-gcp-e4-dev-20240220191813
+gcp_foundation_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-aap-24-gcp-dev-20240220191813
+gcp_extension_e1_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-aap-24-gcp-dev-20240220191813
+gcp_extension_e2_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-aap-24-gcp-dev-20240220191813
+gcp_extension_e4_image_name: https://www.googleapis.com/compute/v1/projects/agcp-001-dev/global/images/cahl-aoc-aap-24-gcp-dev-20240220191813
 image_internal_install_name: quay.io/ansible-on-clouds/ansible-on-clouds-internal-install@sha256:8d9cf220d833d271fbf93e03d5536b8401e4dd41a6981c14c69c49a631bd602b
